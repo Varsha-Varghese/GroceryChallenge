@@ -1,0 +1,94 @@
+{
+    "GroceryItems": [
+        {
+           "SerialNumber":"SerialNumber",
+           "Name":"Name",
+           "Quantity":"Quantity",
+           "Unit":"unit",
+           "Department":"Department",
+           "Notes":"Notes"
+  
+        },
+        {
+            "SerialNumber":"1",
+            "Name":"Corn Flour",
+            "Quantity":"250",
+            "Unit":"g",
+            "Department":"cereals",
+            "Notes":"Check expiry date"
+        },
+        {
+            "SerialNumber":"2",
+            "Name":"Brinjal",
+            "Quantity":"500",
+            "Unit":"g",
+            "Department":"Vegetables",
+            "Notes":"dark violet"
+        },
+        {
+            "SerialNumber":"3",
+            "Name":"Capsicum",
+            "Quantity":"500",
+            "Unit":"g",
+            "Department":"Vegetables",
+            "Notes":"fresh,Medium size"
+        },
+        {
+            "SerialNumber":"4",
+            "Name":"Carrot",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Notes":"fresh"
+        },
+        {
+            "SerialNumber":"5",
+            "Name":"Lemon",
+            "Quantity":"2",
+            "Unit":"Nos",
+            "Department":"Vegetables",
+            "Notes":"fresh"
+        },
+        {
+            "SerialNumber":"6",
+            "Name":"Tomato",
+            "Quantity":"500",
+            "Unit":"g",
+            "Department":"Vegetables",
+            "Notes":"fresh,organic"
+        },
+        {
+            "SerialNumber":"7",
+            "Name":"Potato",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Notes":"large size"
+        },
+        {
+            "SerialNumber":"8",
+            "Name":"Black pepper",
+            "Quantity":"100",
+            "Unit":"g",
+            "Department":"Condiments",
+            "Notes":"100 g or less"
+        },
+        {
+            "SerialNumber":"9",
+            "Name":"Curry leaves",
+            "Quantity":"100",
+            "Unit":"g",
+            "Department":"Vegetables",
+            "Notes":"organic,fresh"
+        },
+        {
+            "SerialNumber":"10",
+            "Name":"Ginger",
+            "Quantity":"200",
+            "Unit":"g",
+            "Department":"Vegetables",
+            "Notes":"organic,fresh"
+        }
+        
+    ] 
+  }
